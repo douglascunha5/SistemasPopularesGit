@@ -1,0 +1,19 @@
+{
+  "name": "sistemaspopularesgit",
+  "version": "1.0.0",
+  "description": "Laboratório 01 da disciplina de Laboratório de computação 6º período do curso de Engenharia de Software. Este código tem como objetivo coletar dados dos principais sistemas open-source do GitHub",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/douglascunha5/SistemasPopularesGit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/douglascunha5/SistemasPopularesGit/issues"
+  },
+  "homepage": "https://github.com/douglascunha5/SistemasPopularesGit#readme"
+}
